@@ -22,6 +22,6 @@ To use this buildpack, you should prepare .buildpacks file that contains this bu
     $ git push heroku master
     ...
 
-You can verify installing ffmpeg by following command.
+You can verify installation of ffmpegthumbnailer by issuing the following command.
 
     $ heroku run "ffmpegthumbnailer -version"
